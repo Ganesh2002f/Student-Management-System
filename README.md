@@ -17,6 +17,6 @@ Update Student Page :- this is update student page where we can update student d
 
 ![image alt](https://github.com/Ganesh2002f/Student-Management-System/blob/main/image7.png?raw=true)
 
-Delete :- when we click on delete button that time student will delete.
+Delete :- when we click on delete button that time student will be deleted.
 
 ![image alt](https://github.com/Ganesh2002f/Student-Management-System/blob/main/image1.png?raw=true)
