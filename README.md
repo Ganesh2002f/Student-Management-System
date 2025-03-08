@@ -5,6 +5,10 @@ Dashboard Page:- this is dashboard page where you can see all the list of studen
 
 ![image alt](https://github.com/Ganesh2002f/Student-Management-System/blob/main/image1.png?raw=true)
 
-Add Student Page :- this is page where we add new student. student name, sirname, and eamil
+Add Student Page :- this is page where we add new student. student name, sirname, and eamil for example here we add details of abhishek jadhav
 
 ![image alt](https://github.com/Ganesh2002f/Student-Management-System/blob/main/image2.png?raw=true)
+
+After add Studet : after adding a student this reflect data in dashbord page where we add abhishek jadhav
+
+![image alt](https://github.com/Ganesh2002f/Student-Management-System/blob/main/image6.png?raw=true)
