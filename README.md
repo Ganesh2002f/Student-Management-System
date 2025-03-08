@@ -16,3 +16,7 @@ After add Studet : after adding a student this reflect data in dashbord page whe
 Update Student Page :- this is update student page where we can update student details like emila or any mistake in name.
 
 ![image alt](https://github.com/Ganesh2002f/Student-Management-System/blob/main/image7.png?raw=true)
+
+Delete :- when we click on delete button that time student will delete.
+
+![image alt](https://github.com/Ganesh2002f/Student-Management-System/blob/main/image1.png?raw=true)
