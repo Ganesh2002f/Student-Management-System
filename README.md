@@ -12,3 +12,6 @@ Add Student Page :- this is page where we add new student. student name, sirname
 After add Studet : after adding a student this reflect data in dashbord page where we add abhishek jadhav
 
 ![image alt](https://github.com/Ganesh2002f/Student-Management-System/blob/main/image6.png?raw=true)
+
+
+![image alt](https://github.com/Ganesh2002f/Student-Management-System/blob/main/image7.png?raw=true)
