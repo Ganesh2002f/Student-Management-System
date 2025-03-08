@@ -3,3 +3,5 @@ The Student Management System is a web-based application developed using Spring 
 
 Dashboard Page:- this is dashboard page where you can see all the list of students and add new student delete student 
 ![image alt](https://github.com/Ganesh2002f/Student-Management-System/blob/main/image1.png?raw=true)
+
+![image alt](https://github.com/Ganesh2002f/Student-Management-System/blob/main/image2.png?raw=true)
