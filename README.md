@@ -13,7 +13,7 @@ After add Studet : after adding a student this reflect data in dashbord page whe
 
 ![image alt](https://github.com/Ganesh2002f/Student-Management-System/blob/main/image6.png?raw=true)
 
-Update Student Page :- this is update student page where we can update student details like emila or any mistake in name.
+Update Student Page :- this is update student page where we can update student details like email or any mistake in name.
 
 ![image alt](https://github.com/Ganesh2002f/Student-Management-System/blob/main/image7.png?raw=true)
 
